@@ -1,7 +1,7 @@
 # Finetuning Study 🛠️
 
 ## What’s this about?
-- Learning to fine-tune language models (like Llama, GPT) for custom NLP tasks.
+- Learning to fine-tune language models (like Llama, Transformer) for custom NLP tasks.
 - Basically, taking pre-trained models and making them awesome for specific stuff.
 
 ## What will we do?
